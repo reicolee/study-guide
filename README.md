@@ -42,6 +42,7 @@
   of key pairs
 * Sets: ES6) interger key based object that returns a set (only one of each
   unique object inside of the data structure)
+    - .size, .add, .delete, .clear, .entries, .values/.keys
 * WeakMaps: ES6, same as Map BUT can only be OBJECTS only, no arbitrary value of
   any type
 * WeakSets: ES6, same as Set BUT can only be OBJECTS only, no arbitrary value of
